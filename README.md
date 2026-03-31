@@ -2,6 +2,8 @@
 
 A clean LaTeX document class for typesetting letters and documents on Huazhong University of Science and Technology (华中科技大学) letterhead.
 
+![example](example.png)
+
 ## Usage
 
 ```latex
